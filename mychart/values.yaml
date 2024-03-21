@@ -1,0 +1,12 @@
+# favorite:
+#   food: pizza
+#   drink: coffee
+#   dessert: ice cream
+favorite:
+  drink: coffee
+  food: pizza
+# pizzaToppings:
+#   - mushrooms
+#   - cheese
+#   - peppers
+#   - onions
